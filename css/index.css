@@ -52,7 +52,6 @@ html {
 #mainmenu {
   padding: 5px 0;
   width: 100%;
-
   background-color: #101922;
 }
 
@@ -61,6 +60,8 @@ html {
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
+  min-height: 50px;
+
 }
 #mainmenu img {
   height: 35px;
@@ -220,6 +221,7 @@ html {
   color: #ff9300;
   text-transform: lowercase;
 }
+
 
 /* end sec-1 */
 
